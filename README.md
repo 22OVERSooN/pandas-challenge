@@ -1,2 +1,8 @@
 # pandas-challenge
-Week 5 Assignment
+Week 5 Assignment-Three observable trends
+
+1.The game is a male-oriented game, accounting for more than 84% of all players. Even so, according to the purchase data, the average purchase of women is $4.47, while that of men is $4.07. This means that the consumption power of women group is stronger than men, so the game should explore more female players.
+
+2.The age group of 15-29 is the main player group, and the age group of 20-24 is the largest, which almost reaches 50%. Meanwhile, in terms of purchasing power, 15-29 year olds also have the strongest purchasing power. Besides that, 35-39 year olds can buy $4.76 per person, which is the largest among all groups. Because this group has more disposable income and more time, the company can develop this group. At the same time, it should be noted that the purchase amount per person of the group under 10 years old can reach $4.54. It may be necessary to pay attention to whether there are players who are too young to use their parents' credit cards.
+
+3.Final Critic and Oathbreaker,Last Hope of the Breaking Storm are the best items in terms of both repurchase rate and final transaction amount. However, due to the difference in the amount of some items, those items with a high amount eventually bring a better purchase value, although they are not as large as those that are not purchased. From this point of view, those items purchased more by players can be increased in price, and those items purchased less but with a very high price can be promoted more, so that players can see how these items can improve the play experience.
